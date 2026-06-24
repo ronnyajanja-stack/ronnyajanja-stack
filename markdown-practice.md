@@ -12,21 +12,21 @@ Visit [Github](https://github.com/ronnyajanja-stack/ronnyajanja-stack) to see my
 Visit [Deep Learning](https://www.deeplearning.ai/) to learn about deep learning.
 
 ## EXERCISE 4.
-## THINGS I WANT TO LEARN.
-### Unordered List.
+### THINGS I WANT TO LEARN.
+#### Unordered List.
 - Python.
 - C++.
 - AI Engineering
 
-  ## STEPS TO MAKE A COMMIT IN GIT.
-  ### Ordered List.
+  ### STEPS TO MAKE A COMMIT IN GIT.
+  #### Ordered List.
   1. **git add filename.txt** to stage a specific file.
      **git add** to stage all changed and new files once.
   2. **git commit -m "your message"**
   3. **git push origin main**
 
   ## EXERCISE 5.
-  ## CREATING A TABLE.
+  ### CREATING A TABLE.
 
   | TOOL | PURPOSE | LINK |
   |--- |--- |--- |
@@ -34,14 +34,14 @@ Visit [Deep Learning](https://www.deeplearning.ai/) to learn about deep learning
   | VS Code | Writing and editing code and markdown documents | [Visit VS Code](https://code.visualstudio.com) |
 
   ## EXERCISE 6.
-  ## ITEMS RELATED TO MY LEARNING GOALS.
-  [X] Data Labeling and Annotation Platforms.
-  [X] Software Documentation and Version Control.
-  [] Generative AI Tools and Work Flows.
-  [] Language Specialization.
+  ### ITEMS RELATED TO MY LEARNING GOALS.
+  - [x] Data Labeling and Annotation Platforms.
+  - [x] Software Documentation and Version Control.
+  - [] Generative AI Tools and Work Flows.
+  - [] Language Specialization.
 
   ## EXERCISE 7.
-  ## CODE BLOCK.
+  ### CODE BLOCK.
   ```python
    print("Hello, world!")
    ```
