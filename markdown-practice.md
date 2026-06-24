@@ -55,4 +55,4 @@ Visit [Deep Learning](https://www.deeplearning.ai/) to learn about deep learning
 My name is **Ronny Ajanja**. I am an AI *student*. To view my profile visit [Github](https://github.com/ronnyajanja-stack/ronnyajanja-stack) My hobbies are;
 1. Coding.
 2. Creating animations.
-My favorite quote is, > with God, everything is possible.
+My favorite quote is, > with God everything is possible.
